@@ -1,23 +1,22 @@
-## 👋 Hello! I'm Mohammed Abdul Rahman
+Hi, I'm Mohammed Abdul Rahman — a Cloud Engineer specializing in AWS, GCP, and Infrastructure as Code. I build and automate scalable cloud infrastructure using Terraform, Kubernetes, and CI/CD pipelines (Jenkins, GitHub Actions), with a background in full-stack development (Node.js, Express, MongoDB).
+☁️ What I Do
 
-I'm a passionate **Full-Stack Developer** skilled in building modern, responsive web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I also work with **DevOps tools** and **cloud platforms** like **AWS** and **Azure** to deliver scalable and automated solutions.
+Provision and manage cloud infrastructure on AWS and GCP
 
-### 🚀 What I Do
-- 🌐 Build full-stack web apps with clean, maintainable code
-- 🔐 Implement secure authentication systems (JWT, RBAC, OAuth)
-- ⚙️ Automate deployments using CI/CD pipelines (AWS CodePipeline, GitHub Actions)
-- ☁️ Deploy applications on cloud platforms (EC2, Azure VMs, S3)
-- 🎨 Create mobile-responsive UIs with Tailwind CSS and Bootstrap
+Author Terraform modules for multi-environment deployments
 
-### 🛠 Tech Stack
-**Languages:** JavaScript, Python, HTML, CSS  
-**Frameworks & Libraries:** React.js, Node.js, Express.js, Bootstrap, Tailwind CSS  
-**Databases:** MongoDB, MySQL  
-**Cloud & DevOps:** AWS, Azure, Git, GitHub, GitHub Actions, CodePipeline, CodeBuild  
-**Tools:** Postman, VS Code, WordPress (CMS)
+Containerize and orchestrate applications with Docker and Kubernetes
 
-### 📫 Let's Connect!
-- 📧 Email: abdulrhmn4137@gmail.com  
+Build CI/CD pipelines for automated, reliable deployments
+
+Configure monitoring and alerting with Prometheus and Grafana
+🛠 Tech Stack
+
+Cloud & DevOps: AWS, GCP, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions
+
+Scripting: Bash, Python
+
+Background: Node.js, Express, MongoDB, React  
 
 
 > "Consistency beats intensity. I believe in learning by building."
